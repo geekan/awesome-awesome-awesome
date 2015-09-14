@@ -1,6 +1,6 @@
 # awesome-awesome-awesome
 
-You need it, luke.
+You need it, Luke.
 
 * https://github.com/sindresorhus/awesome
 * https://github.com/bayandin/awesome-awesomeness

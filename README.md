@@ -1,6 +1,6 @@
 # awesome-awesome-awesome
 
-You need it, luke.
+You need it, Luke.
 
 * https://github.com/sindresorhus/awesome - above 30k stars
 * https://github.com/bayandin/awesome-awesomeness - above 10k stars
